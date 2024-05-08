@@ -55,9 +55,11 @@ The book data used in this project is sourced from Kaggle. The dataset includes 
 Special Thanks to CampusX(Nitish Singh Sir) for inspiration and guidance.<br>
 
 <h3>Screenshot</h3>
-
+<br>
 <img width="1440" alt="Screenshot 2024-05-08 at 8 07 55 PM" src="https://github.com/PKartikNaidu/book-recommender-system/assets/116448807/98a61386-4cab-416a-8d25-01a5403cfa38">
-
+<br>
+<br>
 <img width="1438" alt="Screenshot 2024-05-08 at 10 25 36 PM" src="https://github.com/PKartikNaidu/book-recommender-system/assets/116448807/a47d5054-c6a1-44d9-8e51-f8d0a4fd296e">
-
+<br>
+<br>
 <img width="1440" alt="Screenshot 2024-05-08 at 10 30 06 PM" src="https://github.com/PKartikNaidu/book-recommender-system/assets/116448807/2c498b69-1bc4-4f2e-8e1b-150f9fac967a">
